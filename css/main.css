@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    padding: 0;
+    margin:0;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(33, 38, 65);
+    padding: 1em;
+    width: 100%;
+    position: fixed;
+}
+.signin button {
+    border: none;
+    background-color: rgb(39, 70, 70);
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+
+.one {
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.third img {
+    height: 500px;
+    width: 800px;
+}
+
+
+.first h1 {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.first p {
+    padding-bottom: 1.5em;
+    color: white;
+    font-size: 1.5em;
+    text-align: justify;
+    
+}
+
+.first input[type=button] {
+    background-color: #1c70c4;
+    color: white;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    width: 280px;
+    
+}
+
+.two {
+    background-color: black;
+    display: flex;
+    height: 500px;
+
+}
+
+.fourth img {
+    height: 90%;
+    width: 150%;
+    padding-top: 2em;
+}
+
+.fifth {
+    margin-left: 15.5rem;
+}
+
+.fifth h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    
+}
+
+.fifth p {
+    padding-bottom: 2em;
+    color: white;
+    font-size: 1.5em;
+}
+
+.fifth input[type=button] {
+    background-color: #1c70c4;
+    color: white;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    width: 280px;
+}
+
+.three {
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.seventh img {
+    width: 100%;
+    margin-top: 1.2rem;
+    padding-bottom: 0;
+}
+
+.eighth {
+    margin-left: 1rem;
+    padding: 0;
+    margin-bottom: 10rem;
+}
+
+.eighth h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+    padding-top: 0.3em;
+    padding-bottom: 0.8em;
+
+}
+
+.eighth p {
+    padding-bottom: 1.5em;
+    color: white;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+.eighth input[type=button] {
+    background-color: #1c70c4;
+    color: white;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    width: 280px;
+}
+
+.four {
+    background-color: black;
+    display: flex;
+}
+
+.eleventh img {
+    width: 180%;
+    height: 100%;
+}
+
+.twelth {
+    margin-top: 2rem;
+    margin-left: 3rem;
+    height: 70px;
+}
+
+.twelth h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 1em;
+}
+
+.twelth p {
+    padding-bottom: 1.8em;
+    color: white;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+.thirteenth input[type=button] {
+    background-color: #1c70c4;
+    color: white;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    width: 280px;
+    margin-top: 13.5rem;
+    margin-left: -18rem;
+    margin-right: 15rem;
+}
+
+.five {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+}
+
+.fifteenth h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.2em;
+}
+
+.fifteenth p {
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+}
+
+.seventeenth h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.2em;
+}
+
+.seventeenth p {
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+}
+
+.nineteenth h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.2em;
+}
+
+.nineteenth p {
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+}
+
+.six {
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.twentyone h1 {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    margin-left: 1rem;
+}
+
+.twentyone p {
+    font-size: 1.2em;
+    color: white;
+    text-align: justify;
+    padding-bottom: 1.5em;
+    margin-left: 1rem;
+}
+
+.twentyone input[type=button] {
+    background-color: #1c70c4;
+    color: white;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    width: 280px;
+    margin-left: 1rem;
+}
+
+.gray {
+    background-color: darkslategrey;
+}
+
+.gray img {
+    margin-left: 39rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.gray p {
+    text-align: center;
+    color: white;
+    padding-bottom: 1.5rem;
+}
